@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivam-rawat-103403216" target="blank"><img align="center" src="https://www.freepik.com/icon/linkedin_3536505" alt="shivam-rawat-103403216" height="30" width="40" /></a>
-<a href="https://instagram.com/shivam_rawat_3263" target="blank"><img align="center" src="https://www.freepik.com/icon/instagram_2111463#fromView=search&term=Instagram&page=1&position=1" alt="shivam_rawat_3263" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam-rawat-103403216" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shivam-rawat-103403216" height="30" width="40" /></a>
+<a href="https://instagram.com/shivam_rawat_3263" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt="shivam_rawat_3263" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coderxshivam" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="coderxshivam" height="30" width="40" /></a>
 </p>
 
